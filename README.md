@@ -1,12 +1,11 @@
 # Business-Intelligence 360 - Power Bi project
 
 ## 🎈 Project Overview
-Atliq hardware is been growing rapidly in recent years.so to stay ahead of competition company as decided to take data  driven decision.
+AtliQ Hardware has been growing rapidly in recent years. So, to stay ahead of the competition, the company has decided to make data-driven decisions.
 
-This project was built to give a edge over the competitors and providing with insights on **Sales,Finance.Market and supplyChain**.This project is part of **codebasics Power Bi course Business intelligence 360**.
+This project was built to give an edge over competitors by providing insights into Sales, Finance, Market, and Supply Chain. This project is part of the Codebasics Power BI course: Business Insights 360.
 
-The objective is to bring all scattered data into make a precise and readable data to provide valuable insights to take data driven decision.
-
+The objective is to consolidate scattered data into a clean, readable format to deliver actionable insights for data-driven decision-making.
 
 ## 🎈 About Commpany
 AtliQ Hardware is consumer electronics & computer hardware company and sells its products on 4 ways:
