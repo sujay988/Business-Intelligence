@@ -42,7 +42,7 @@ AtliQ Hardware is consumer electronics & computer hardware company and sells its
 ## -> Dashboard
 
 ### Landing Page
- Central hub to access all business dimensions (sales,finanace,market,supplychain and executive view) and Navigate(page navigation)
+- Central hub to access all business dimensions (sales,finanace,market,supplychain and executive view) and Navigate(page navigation)
 -  
 
 
